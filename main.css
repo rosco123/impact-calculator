@@ -3173,6 +3173,7 @@ ul {
 }
 
 li {
+    font-size: 19px;
     height: 45%;
     padding: 1%;
     text-align: left;
@@ -3191,7 +3192,7 @@ li {
 }
 
 .text-item {
-    width: 55%;
+    width: 60%;
 }
 
 .image-item {
@@ -3220,6 +3221,7 @@ h1, h2 {
 }
 
 .header p {
+    font-size: 16px;
     margin: 5px 0 15px;
     padding: 0 5%;
     line-height: 1.3;
@@ -3231,7 +3233,7 @@ h1 {
 }
 
 h2 {
-    font-size: 20px;
+    font-size: 19px;
     margin-top: 20px;
 }
 
